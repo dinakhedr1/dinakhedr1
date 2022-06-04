@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dinakhedr1
+- 👀 I’m interested in python and data analytics.
+- 🌱 I’m currently pursuing my J.D and M.S in Statistics with a Concentration in Data Science.
+- 📫 How to reach me: Dina.khedr@brooklaw.edu
